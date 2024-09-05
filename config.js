@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'New Tab',
+					link: 'edge://newtab',
 				},
 			],
 		},
@@ -192,11 +192,11 @@ const CONFIG = {
 				},
 				{
 					name: 'Matrix',
-					link: 'https://www.reddit.com',
+					link: 'https://my.matrix.edu.au/',
 				},
 				{
 					name: 'Sentral',
-					link: 'https://www.hashnode.com',
+					link: 'https://fortstreeths.sentral.com.au/s-068p65/portal/#!/student/3894',
 				},
 				{
 					name: 'Gmail',
