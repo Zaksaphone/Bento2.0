@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'graduation-cap',
 			id: '1',
 			links: [
 				{
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'wrench',
 			id: '2',
 			links: [
 				{
@@ -183,7 +183,7 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'book-marked',
 			id: '1',
 			links: [
 				{
@@ -205,7 +205,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'binary',
 			id: '2',
 			links: [
 				{
