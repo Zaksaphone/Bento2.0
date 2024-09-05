@@ -59,15 +59,15 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Gmail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Sentral',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://https://fortstreeths.sentral.com.au/s-068p65/portal/#!/student/3894',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'VScode',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://cs50.dev',
 		},
 		{
 			id: '6',
