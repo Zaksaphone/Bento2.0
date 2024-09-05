@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Sentral',
 			icon: 'trello',
-			link: 'https://https://fortstreeths.sentral.com.au/s-068p65/portal/#!/student/3894',
+			link: 'https://fortstreeths.sentral.com.au/s-068p65/portal/#!/student/3894',
 		},
 		{
 			id: '4',
