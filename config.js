@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Google Classroom',
+					link: 'https://classroom.google.com/h',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'To do',
+					link: 'https://classroom.google.com/a/not-turned-in/all',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Google Drive',
+					link: 'https://drive.google.com/drive/my-drive',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Google Docs',
+					link: 'https://docs.google.com',
 				},
 			],
 		},
@@ -161,15 +161,15 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Mathsolver',
+					link: 'https://https://mathsolver.microsoft.com/en',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Desmos',
+					link: 'https://www.desmos.com/calculator',
 				},
 				{
-					name: 'Trello',
+					name: 'Atomi',
 					link: 'https://www.trello.com',
 				},
 				{
@@ -187,20 +187,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Notion',
+					link: 'https://www.notion.so/Edmund-s-School-a31dc320361843269e8fc9b5c78d0dd6',
 				},
 				{
-					name: 'Reddit',
+					name: 'Matrix',
 					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Hashnode',
+					name: 'Sentral',
 					link: 'https://www.hashnode.com',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Gmail',
+					link: 'https://mail.google.com',
 				},
 			],
 		},
@@ -209,20 +209,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Google',
+					link: 'https://google.com',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Github',
+					link: 'https://github.com',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'VScode',
+					link: 'https://cs50.dev/',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'DETNSW sign-in',
+					link: 'https://detnsw.net',
 				},
 			],
 		},
