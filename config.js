@@ -162,7 +162,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Mathsolver',
-					link: 'https://https://mathsolver.microsoft.com/en',
+					link: 'https://mathsolver.microsoft.com/en',
 				},
 				{
 					name: 'Desmos',
@@ -170,7 +170,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Atomi',
-					link: 'https://www.trello.com',
+					link: 'https://learn.getatomi.com/subscriptions/254000/classes',
 				},
 				{
 					name: 'New Tab',
