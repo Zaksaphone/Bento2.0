@@ -139,12 +139,12 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Classroom',
-					link: 'https://classroom.google.com/h',
+					name: 'MyUNSW',
+					link: 'https://my.unsw.edu.au/portal/portal/student.xml?ticket=ST-210198-gs3YJ3SuX82l13X8nLC1klq-pd4-infplcas103',
 				},
 				{
-					name: 'To do',
-					link: 'https://classroom.google.com/a/not-turned-in/all',
+					name: 'Moodle',
+					link: 'https://moodle.telt.unsw.edu.au/my/',
 				},
 				{
 					name: 'Google Drive',
@@ -221,8 +221,8 @@ const CONFIG = {
 					link: 'https://cs50.dev/',
 				},
 				{
-					name: 'DETNSW sign-in',
-					link: 'https://detnsw.net',
+					name: 'COMP1511',
+					link: 'https://cgi.cse.unsw.edu.au/~cs1511/current/',
 				},
 			],
 		},
