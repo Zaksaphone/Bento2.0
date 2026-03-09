@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'MyUNSW',
-					link: 'https://my.unsw.edu.au/portal/portal/student.xml?ticket=ST-210198-gs3YJ3SuX82l13X8nLC1klq-pd4-infplcas103',
+					link: 'https://my.unsw.edu.au/portal/portal/student.xml',
 				},
 				{
 					name: 'Moodle',
@@ -169,11 +169,11 @@ const CONFIG = {
 					link: 'https://www.desmos.com/calculator',
 				},
 				{
-					name: 'Atomi',
-					link: 'https://learn.getatomi.com/subscriptions/254000/classes',
+					name: 'Empty',
+					link: 'https://',
 				},
 				{
-					name: 'New Tab',
+					name: 'Empty',
 					link: 'edge://newtab',
 				},
 			],
@@ -188,15 +188,15 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Notion',
-					link: 'https://www.notion.so/Edmund-s-School-a31dc320361843269e8fc9b5c78d0dd6',
+					link: 'https://www.notion.so/9c8d309e64a142da8229512a5e4fd3ae',
 				},
 				{
-					name: 'Matrix',
-					link: 'https://my.matrix.edu.au/',
+					name: 'Empty',
+					link: 'https://',
 				},
 				{
-					name: 'Sentral',
-					link: 'https://fortstreeths.sentral.com.au/s-068p65/portal/#!/student/3894',
+					name: 'Empty',
+					link: 'https://',
 				},
 				{
 					name: 'Gmail',
